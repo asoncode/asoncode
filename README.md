@@ -8,7 +8,8 @@ Building real-world AI systems that scale.
 
 Looking for Summer and Fall 2026 internships surrounding SWE, Applied AI, AI/ML, and/or AGI.
 
-LinkedIn: https://linkedin.com/in/asongsuhjr/  
+LinkedIn: https://linkedin.com/in/asongsuhjr/
+Resume: https://tinyurl.com/AsongSuhJrResume
 Portfolio: https://asongjr.com  
 
 ---
