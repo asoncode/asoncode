@@ -1,12 +1,12 @@
 # Asong Suh Jr
 
-CS @ Texas A&M | Prev. @ Google, Sand Technologies
+CS @ Texas A&M | Prev. @ Google, Sand Technologies 
 
 I work on agentic AI and spatial intelligence: systems that build models of the physical world from limited observations, and the environments and verifiers used to train and test them.
 
 Looking for Summer 2027 internships in SWE, Applied AI, AI/ML, or research engineering.
 
-[LinkedIn](https://linkedin.com/in/asongsuhjr/) · [Resume](https://drive.google.com/file/d/1OwA_MD_i5aA4ZWf6BAb8sa-ZQBFraLYQ/view?usp=sharing) · [Portfolio](https://asongjr.com)
+[LinkedIn](https://linkedin.com/in/asongsuhjr/) · [Resume](https://tinyurl.com/AsongSuhJrResume/) · [Portfolio](https://asongjr.com)
 
 ## Experience
 
@@ -21,7 +21,7 @@ Looking for Summer 2027 internships in SWE, Applied AI, AI/ML, or research engin
 - Designed low-latency inference pipelines
 - Improved failure-mode coverage by 80%
 
-## Research
+## Research & applied research
 
 **[se3env](https://github.com/asoncode/se3env)** · RL environment for SE(3) geometric reasoning
 - Procedurally generates six task families (visibility, depth order, loop-closure residuals, and more) from camera poses and landmarks, with a verifier whose ground truth is closed-form
@@ -35,13 +35,20 @@ Looking for Summer 2027 internships in SWE, Applied AI, AI/ML, or research engin
 - Frozen study of 144 episodes with zero failures. The learned proposals did not show a reliable advantage (bootstrap CI includes zero), and linear identification had the lowest error using 32x fewer forward steps
 - Includes an 11-page technical paper and a React lab for manual and agent-driven probing
 
-## Projects
-
 **[OrfaLens](https://github.com/asoncode/OrfaLens)** · Monocular 3D mapping (Orfa.ai)
 - Builds persistent, object-aware 3D maps from a single RGB video stream
 - ORB visual odometry, MiDaS depth with temporal scale stabilization, keyframe-anchored point-cloud fusion
 - YOLOv8/RT-DETR detection with motion-plus-appearance 3D tracking
 - Relocalization against stored keyframes, loop closure with pose-graph optimization, `.ply` export
+
+**[SafetAI](https://www.linkedin.com/in/asongsuhjr/details/projects/)** · Active shooter detection for weapon-free campuses and properties (2022 to present)
+- Real-time audio CNN (TensorFlow) that classifies gunshots and estimates their distance, trained on 13,973 audio files: over 93% gunshot accuracy, about 89% on distance
+- YOLOv5 + ByteTrack detector for open-carried firearms and the person holding them, trained on 16,322 images: over 93% accuracy
+- ESRGAN super-resolution on surveillance footage to improve detection input quality and forensic review
+- 97.7% reduction in police response time to an active shooting with SafetAI in the loop
+- Congressional App Challenge winner (TX-8), U.S. House Commendation, 2x SCI://TECH Robotics & Intelligent Machines 1st place, HCU Cyber Impact Award, Dilorio Foundation Senior Engineering 1st place, 2x Repsol Student Innovation Award
+
+## Projects
 
 **[FPL AI Command Center](https://github.com/asoncode/FPL-Assistant)** · Fantasy Premier League decision engine
 - Pulls live public FPL data and projects expected points per player over a 1 to 8 gameweek horizon from xG/xA, minutes, fixture difficulty, set-piece duty, and head-to-head history
@@ -62,7 +69,7 @@ Looking for Summer 2027 internships in SWE, Applied AI, AI/ML, or research engin
 - Turns pasted notes, docs, or code into coding, debugging, trace-output, and test-design questions with hints and answer keys
 - Local Python runner checks expected vs. actual output; zero package dependencies
 
-**Also built:** SafetAI, multimodal gunshot and firearm detection (93% / 97%) with ByteTrack + Kalman tracking, and a quant trading system with autonomous execution and risk agents and volatility-based allocation.
+**Also built:** a quant trading system with autonomous execution and risk agents and volatility-based portfolio allocation.
 
 ## Tech
 
