@@ -21,7 +21,7 @@ Looking for Summer 2027 internships in SWE, Applied AI, AI/ML, or research engin
 - Designed low-latency inference pipelines
 - Improved failure-mode coverage by 80%
 
-## Research/Applied research
+## Research/Applied Research
 
 **[se3env](https://github.com/asoncode/se3env)** · RL environment for SE(3) geometric reasoning
 - Procedurally generates six task families (visibility, depth order, loop-closure residuals, and more) from camera poses and landmarks, with a verifier whose ground truth is closed-form
