@@ -6,7 +6,7 @@ I work on agentic AI and spatial intelligence: systems that build models of the 
 
 Looking for Summer 2027 internships in SWE, Applied AI, AI/ML, or research engineering.
 
-[LinkedIn](https://linkedin.com/in/asongsuhjr/) · [Resume](https://tinyurl.com/AsongSuhJrResume/) · [Portfolio](https://asongjr.com)
+[LinkedIn](https://linkedin.com/in/asongsuhjr/) · [Resume]([https://tinyurl.com/AsongSuhJrResume/](https://drive.google.com/file/d/1OwA_MD_i5aA4ZWf6BAb8sa-ZQBFraLYQ/view?usp=sharing)) · [Portfolio](https://asongjr.com)
 
 ## Experience
 
