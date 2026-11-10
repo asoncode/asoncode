@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://asongjr.com">Portfolio</a> &nbsp;&nbsp;/&nbsp;&nbsp;
   <a href="https://linkedin.com/in/asongsuhjr/">LinkedIn</a> &nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1OwA_MD_i5aA4ZWf6BAb8sa-ZQBFraLYQ/view?usp=sharing">Resume</a>
+  <a href="https://drive.google.com/file/d/17PHOSe_EuABGe15qmj1FtvtST9dzaJcl/view?usp=sharing">Resume</a>
 </p>
 
 <p align="center">Open to Summer 2027 internships in SWE, applied AI, and ML.</p>
